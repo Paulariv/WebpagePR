@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Paula Riveros"
   avatar : "/assets/images/Bio_img.jpg"
-  bio    : "."My name is Paula
+  bio    : "My name is Paula"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
