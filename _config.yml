@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Paula Riveros"
   avatar : "/assets/images/Bio_img.jpg"
-  bio    : "My name is Paula"
+  bio    : "My name is Paula, this is my Webpage showing all the things I have learned in KNES 381"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -70,7 +70,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Paulariv"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
