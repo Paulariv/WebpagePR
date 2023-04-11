@@ -1,5 +1,5 @@
 ---
-title: "Scratch Maze"
+title: "Other Work"
 categories:
   - Blog
 tags:
