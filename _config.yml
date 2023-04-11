@@ -63,8 +63,7 @@ author:
   bio    : "My name is Paula, this is my Webpage showing all the things I have learned in KNES 381"
   links:
   - label: "MyUofC"
-      icon: "<i class="fa fa-university" aria-hidden="true"></i>
-      url: "https://"
+      icon: "fab fa-fw fa-link"
       url: "https://cas.ucalgary.ca/cas/login?service=https://portal.my.ucalgary.ca/psp/paprd/?cmd=start&ca.ucalgary.authent.ucid=true"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
