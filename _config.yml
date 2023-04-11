@@ -59,9 +59,10 @@ author:
   avatar : "/assets/images/Bio_img.jpg"
   bio    : "My name is Paula, this is my Webpage showing all the tools I have learned in KNES 381"
   links:
+  
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://kaggle.com/paulariverosq
+      url: "https://
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Paulariv"
@@ -75,7 +76,7 @@ footer:
       url: "https://github.com/Paulariv"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://kaggle.com/paulariverosq
+      url: "https://
       
 defaults:
   # _posts
