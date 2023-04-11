@@ -1,12 +1,14 @@
 ---
-title: "Post: Scratch Maze"
+title: "Scratch Maze"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - quote
+  - Jerkyl
+  - Scratch
 ---
 
-> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
+> My 3 level maze game 
+
+> Follow this [link](https://scratch.mit.edu/projects/807774912/) to play the maze game
   
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+> <cite><a href="https://scratch.mit.edu/projects/807774912/">Maze Game</a></cite>
