@@ -1,5 +1,5 @@
 ---
-title: "Post: Quote"
+title: "Post: Scratch Maze"
 categories:
   - Blog
 tags:
