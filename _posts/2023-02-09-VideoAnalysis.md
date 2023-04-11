@@ -8,10 +8,13 @@ tags:
   - Jekyl
 ---
 
-This Video shows 
+This video Shows us common mistakes when performing a bar bell squat.
 
 
 <iframe width="480" height="895"
 src="https://www.dartfish.tv/Embed?CR=p191106c538452m7989921&VW=480&VH=880&sh=li&aid=d50e5ede-baed-4858-a8f5-584118204cd5"
 frameborder="0" 
 allowfullscreen ></iframe>
+
+This video is of me performing a barbell improperly. It outlines the mistakes I was making, aswell as points where I should improve.
+
