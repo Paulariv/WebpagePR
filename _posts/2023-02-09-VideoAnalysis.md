@@ -8,7 +8,7 @@ tags:
   - Jekyl
 ---
 
-This video Shows us common mistakes when performing a bar bell squat.
+This video shows common mistakes when performing a bar bell squat.
 
 
 <iframe width="480" height="895"
