@@ -10,4 +10,8 @@ tags:
 
 This Video shows 
 
-{% include video id="(https://github.com/Paulariv/WebpagePR/edit/master/_posts/2023-02-09-VideoAnalysis.md)" Provider="Dartfish"%
+
+<iframe width="480" height="895"
+src="https://www.dartfish.tv/Embed?CR=p191106c538452m7989921&VW=480&VH=880&sh=li&aid=d50e5ede-baed-4858-a8f5-584118204cd5"
+frameborder="0" 
+allowfullscreen ></iframe>
