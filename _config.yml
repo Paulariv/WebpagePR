@@ -13,15 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: SMART SPACE
+email: Paula.riverosquintan@ucalgary.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
+  SMART SPACE is where I share with you what i have learned in Knes 381.
 github_username: Paulariv
-minimal_mistakes_skin: default
+minimal_mistakes_skin: "sunrise"
 search: true
 
 # Build settings
@@ -60,14 +57,11 @@ plugins:
 author:
   name   : "Paula Riveros"
   avatar : "/assets/images/Bio_img.jpg"
-  bio    : "My name is Paula, this is my Webpage showing all the things I have learned in KNES 381"
+  bio    : "My name is Paula, this is my Webpage showing all the tools I have learned in KNES 381"
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      icon: "fas fa-fw fa-kaggle"
+      url: "https://kaggle.com/paulariverosq
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Paulariv"
@@ -77,16 +71,14 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Paulariv"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+    - label: "Website"
+      icon: "fas fa-fw fa-kaggle"
+      url: "https://kaggle.com/paulariverosq
+      
 defaults:
   # _posts
   - scope:
