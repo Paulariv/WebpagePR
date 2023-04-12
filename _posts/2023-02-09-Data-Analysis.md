@@ -15,4 +15,4 @@ The *Bar Graph* above shows the comparisson between the minimum and maximum temp
 <img src="{{ site.url}}{{ site.baseurl }}/assets/images/comparisongraph.jpg" alt="">
 
 This graph compares the <span style="color:blue">average speed </span> with the <span style="color:orange">average moving speed </span>.
-Accoding to [Garmin](https://www.garmin.com/en-CA/) The average Speed is based off the Time value, while the average moving speed is based off the moving time value, which removes the time the individal is stopped.This might explain why the average moving speed is moving speed is higher than the average speed. 
+Accoding to [Garmin](https://www.garmin.com/en-CA/) the average speed is based off the time value, while the average moving speed is based off the moving time value, which removes the time the individal is stopped.This might explain why the average moving speed is higher than the average speed. 
