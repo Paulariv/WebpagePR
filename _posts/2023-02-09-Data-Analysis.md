@@ -6,7 +6,7 @@ tags:
   - Analysis
   - Graphs
 ---
-Here you will find the [Data] (https://1drv.ms/x/s!Aly9cvPU2x-Ik0uZsT4dY7kN4xc6?e=UDgwtu) used to make the following graphs. 
+Here you will find the [Data](https://1drv.ms/x/s!Aly9cvPU2x-Ik0uZsT4dY7kN4xc6?e=UDgwtu) used to make the following graphs. 
 
 <img src="{{ site.url}}{{ site.baseurl }}/assets/images/bargraph.jpg" alt="">
 
