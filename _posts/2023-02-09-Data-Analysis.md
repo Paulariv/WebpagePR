@@ -10,7 +10,7 @@ Here you will find the [Data](https://1drv.ms/x/s!Aly9cvPU2x-Ik0uZsT4dY7kN4xc6?e
 
 <img src="{{ site.url}}{{ site.baseurl }}/assets/images/bargraph.jpg" alt="">
 
-The Bar graph above shows the comparisson between the minimum and maximum temperatures reached for 27 laps of an individual running with a garmin watch!
+The *Bar Graph* above shows the comparisson between the minimum and maximum temperatures reached for 27 laps of an individual running with a garmin watch!
 
 <img src="{{ site.url}}{{ site.baseurl }}/assets/images/comparisongraph.jpg" alt="">
 
