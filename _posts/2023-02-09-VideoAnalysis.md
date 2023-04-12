@@ -18,5 +18,5 @@ frameborder="0"
 allowfullscreen ></iframe>
 
 This is a video of me performing a barbell squat improperly. It outlines the mistakes I was making, as well as points where I should improve.
-The video analysis was done with the desktop app Dartfish.
+The video analysis was done using the desktop app Dartfish.
 
