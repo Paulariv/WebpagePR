@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Paula Riveros"
   avatar : "/assets/images/Bio_img.jpg"
-  bio    : "My name is Paula, this is my Webpage showing all the things I have learned in KNES 381"
+  bio    : "My name is Paula. This is my Webpage showing all the computer skills I have learned in KNES 381"
   links:
     - label: "Email"
       icon: "fab fa-fw fa-Mail"
