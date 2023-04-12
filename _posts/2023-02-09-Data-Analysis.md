@@ -13,4 +13,4 @@ The following graph shows the comparisson between the minimum and maximum temper
 
 <img src="{{ site.url}}{{ site.baseurl }}/assets/images/comparisongraph.jpg" alt="">
 
-This data compares the Avg speed with the average moving speed <span style="color:blue">some *blue* text</span>.
+This data compares the <span style="color:blue">average speed </span> with the <span style="color:orange">average moving speed </span>.
