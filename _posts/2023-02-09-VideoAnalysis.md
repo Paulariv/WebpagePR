@@ -6,6 +6,7 @@ categories:
 tags:
   - Video
   - Jekyl
+  - Dartfish
 ---
 
 This video shows common mistakes when performing a bar bell squat.
@@ -16,6 +17,6 @@ src="https://www.dartfish.tv/Embed?CR=p191106c538452m7989921&VW=480&VH=880&sh=li
 frameborder="0" 
 allowfullscreen ></iframe>
 
-This is a video of me performing a barbell squat improperly. It outlines the mistakes I was making, aswell as points where I should improve.
+This is a video of me performing a barbell squat improperly. It outlines the mistakes I was making, as well as points where I should improve.
 The video analysis was done with the desktop app Dartfish.
 
